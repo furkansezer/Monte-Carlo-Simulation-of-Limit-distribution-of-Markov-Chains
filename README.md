@@ -1,4 +1,4 @@
-Numeric simulation of steady state probabilities of a Markov chain via 
+Numeric simulation of steady state probabilities of Markov chains via 
 
 1) matrix multiplication and
 2) monte carlo simulation.
